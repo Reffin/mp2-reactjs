@@ -19,7 +19,7 @@
 .search h1 {
   width: auto;
   height:auto;
-  color: #ff014f;
+  color: #ff5e01;
 }
 .search .width {
   width: 25%;
@@ -62,7 +62,7 @@
   height: 20px;
   border-radius: 50%;
   text-align: center;
-  background-color:#ff014f;
+  background-color:#ff5e01;
   font-size: 12px;
   color: #fff;
 }
@@ -105,7 +105,7 @@ header ul li a {
   font-weight: 400;
 }
 header ul li a:hover {
-  color: #ff014f;
+  color: #ff5e01;
 }
 
 .open {
@@ -153,7 +153,7 @@ header ul li a:hover {
     position: absolute;
     top: 35px;
     right: 20px;
-    color: #ff014f;
+    color: #ff5e01;
     display: block;
     font-size: 25px;
     z-index: 999;
@@ -163,7 +163,7 @@ header ul li a:hover {
   }
   .close.home-btn {
     background: linear-gradient(145deg, #e2e8ec, #ffffff);
-    color: #ff014f;
+    color: #ff5e01;
     border-radius: 50%;
     padding: 0;
     width: 60px;
