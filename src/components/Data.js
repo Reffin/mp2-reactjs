@@ -10,8 +10,8 @@ const Data = {
     {
       id: 2,
       discount: 40,
-      cover: "./images/flash/flash-2.png",
-      name: "Watch",
+      cover: "./images/flash/discount-1.png",
+      name: "Headset",
       price: 20,
     },
     {
@@ -24,8 +24,8 @@ const Data = {
     {
       id: 4,
       discount: 40,
-      cover: "./images/flash/flash-4.png",
-      name: "Smart Watch Black",
+      cover: "./images/flash/discount-4.png",
+      name: "NetGear",
       price: 50,
     },
     {
