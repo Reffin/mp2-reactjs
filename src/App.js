@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 import "./App.css"
 import { BrowserRouter as Router, Route } from "react-router-dom"
-// import Login from "./login/Login";
 import Header from "./common/header/Header"
 import Pages from "./pages/Pages"
 import Data from "./components/Data"
@@ -65,7 +64,6 @@ function App() {
           <Cart CartItem={CartItem} addToCart={addToCart} decreaseQty={decreaseQty} />
         </Route>
         <Footer />
-        {/* <Route path="/Login" element={<Login />} /> */}
       </Router>
 
 
