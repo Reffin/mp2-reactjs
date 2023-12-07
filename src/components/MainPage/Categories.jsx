@@ -4,34 +4,34 @@ const Categories = () => {
   const data = [
     
     {
-      cateImg: "./images/category/electronics.png",
+      cateImg: "/images/category/electronics.png",
       cateName: "Electronics",
     },
     {
-      cateImg: "./images/category/car.png",
+      cateImg: "/images/category/car.png",
       cateName: "Cars",
     },
     
     {
-      cateImg: "./images/category/phone.png",
+      cateImg: "/images/category/phone.png",
       cateName: "Phones",
     },
     
     {
-      cateImg: "./images/category/lipstick.png",
+      cateImg: "/images/category/lipstick.png",
       cateName: "Beauty",
     },
     
     {
-      cateImg: "./images/category/babys.png",
+      cateImg: "/images/category/babys.png",
       cateName: "Baby Toys",
     },
     {
-      cateImg: "./images/category/grocery.png",
+      cateImg: "/images/category/grocery.png",
       cateName: "Groceries",
     },
     {
-      cateImg: "./images/category/books.png",
+      cateImg: "/images/category/books.png",
       cateName: "Books",
     },
   ]
